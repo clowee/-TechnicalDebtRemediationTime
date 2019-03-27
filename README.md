@@ -37,7 +37,7 @@ Folders [RQ1](RQ1) and [RQ2](RQ2) contain the data visualizations for all of the
 
    Histograms visualizing the number of total TD items and fixed TD items (Figure 1 in the paper).
    
-* [RQ1/total_item_introduction_boxplots](RQ1/total_item_ingroduction_boxplots)
+* [RQ1/total_item_introduction_boxplots](RQ1/total_item_introduction_boxplots)
 
    Boxplots for the total number of TD items in the projects. The folder contains the boxplots with and without outliers.
    
