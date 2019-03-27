@@ -1,33 +1,33 @@
-# -TechnicalDebtRemediationTime
+# TechnicalDebtRemediationTime
 
 The repository contains the results and the data used in the paper "On the Accuracy of SonarQube Technical Debt
 Remediation Time".
 
 All of the data presented in the tables can be found from the Excel file [data_for_RQ1-RQ3.xlsx](data_for_RQ1-RQ3.xlsx). The file contains the following tabs:
 
-* Total TD items dist (RQ1)
+* _Total TD items dist (RQ1)_
 
-   Reports the number of introductions per TD item for all of the analyzed projects.
+   The number of introductions per TD item for all of the analyzed projects.
 
-* Total type severity dist (RQ1)
+* _Total type severity dist (RQ1)_
 
-   Reports the number of TD items introduced in the analyzed projects per different type and severity values. Please note that each rule has a type and a severity.
+   The number of TD items introduced in the analyzed projects per different type and severity values. Please note that each rule has a type and a severity.
    
-* Fixed TD items dist (RQ2)
+* _Fixed TD items dist (RQ2)_
 
-   Reports the number of fixed TD items per TD item in the analyzed projects.
+   The number of fixed TD items per TD item in the analyzed projects.
    
-* Fixed type severity dist (RQ2)
+* _Fixed type severity dist (RQ2)_
 
-   Reports the number of fixed TD items per different type and severity values. The table also reports the number of fixed items we could not identify from the student reports.
+   The number of fixed TD items per different type and severity values. The table also reports the number of fixed items we could not identify from the student reports.
    
-* Remediation (RQ2 and RQ3)
+* _Remediation (RQ2 and RQ3)_
    
    The results from the analysis of remediation time accuracy. The table contains measures RE (mean), RE (median), MmRE, MdmRE, MAR, PRED25, and PRED50. The results calculated for all of the data as well as for all of the values of type and severity.
    
-* TD item desctiptions
+* _TD item desctiptions_
 
-   The description, remediation time, type and severity for all of the TD items SonarQube used to analyze the projects.
+   The description, remediation time, type, and severity for all of the TD items SonarQube used to analyze the projects.
    
    
    
