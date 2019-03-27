@@ -39,8 +39,8 @@ Folders [RQ1](RQ1) and [RQ2](RQ2) contain the data visualizations for all of the
    
 * [RQ1/total_item_introduction_boxplots](RQ1/total_item_ingroduction_boxplots)
 
-   Boxplots for the total number of TD items in the projects.
+   Boxplots for the total number of TD items in the projects. The folder contains the boxplots with and without outliers.
    
 * [RQ2/boxplots_fixed_items_per_squid](RQ2/boxplots_fixed_items_per_squid)
 
-   Boxplots for the number of fixed TD items in the projects.
+   Boxplots for the number of fixed TD items in the projects. The folder contains the boxplots with and without outliers.
